@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="936.03961mm"
+   height="268.93185mm"
+   viewBox="0 0 936.03961 268.93185"
+   version="1.1"
+   id="svg194"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs191" />
+  <g
+     id="layer1"
+     transform="translate(103.13407,-36.553843)">
+    <rect
+       style="fill:#00ffff;stroke-width:0.268738"
+       id="rect530"
+       width="936.03955"
+       height="268.93185"
+       x="-103.13406"
+       y="36.553844" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path250"
+       cx="99.543953"
+       cy="108.02967"
+       rx="35.574726"
+       ry="2.9373627" />
+    <ellipse
+       style="fill:none;stroke-width:0.264583"
+       id="path252"
+       cx="92.037361"
+       cy="137.40329"
+       rx="39.817581"
+       ry="61.684616" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.221588"
+       id="path256"
+       cx="106.99342"
+       cy="172.58888"
+       rx="33.347225"
+       ry="32.52721" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.221588"
+       id="path256-0"
+       cx="52.911377"
+       cy="110.59611"
+       rx="33.347225"
+       ry="32.52721" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.221588"
+       id="path256-35"
+       cx="54.059681"
+       cy="232.64885"
+       rx="33.347225"
+       ry="32.52721" />
+    <ellipse
+       style="fill:#000000;stroke-width:0.221588"
+       id="path256-3"
+       cx="-1.2483833"
+       cy="173.01096"
+       rx="33.347225"
+       ry="32.52721" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:141.111px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';letter-spacing:3.96875px;fill:#000000;stroke-width:0.264583"
+       x="213.44833"
+       y="218.01756"
+       id="text416"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:141.111px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';stroke-width:0.264583"
+         x="213.44833"
+         y="218.01756"
+         id="tspan418"
+         dx="0">MOVAVI</tspan></text>
+  </g>
+</svg>
